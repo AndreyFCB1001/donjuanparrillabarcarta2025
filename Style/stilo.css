@@ -115,6 +115,9 @@ img {
     .imagedoble {
         width: 100%;
     }
+    .contenedorcarrusel{
+        padding: 0 35%;
+    }
 }
 footer a{
     color: white;
